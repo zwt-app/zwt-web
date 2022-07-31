@@ -1,0 +1,108 @@
+const data = [
+    {
+      navio: 'NAVIO 1',
+      data_chegada_duv: '30/07/2022',
+      terminal_duv: 1,
+      data_chegada_pratico: '31/07/2022',
+      tempo_adicional: '01:15',
+      tamanho_navio: 40,
+      mare: 12,
+      calado: 15,
+      tempo_adicional_anuencias: '01:45',
+      status_desatracamento: 'OK',
+      tempo_atracacao: '02:45',
+    },
+    {
+      navio: 'NAVIO 2',
+      data_chegada_duv: '30/07/2022',
+      terminal_duv: 1,
+      data_chegada_pratico: '31/07/2022',
+      tempo_adicional: '01:15',
+      tamanho_navio: 40,
+      mare: 12,
+      calado: 15,
+      tempo_adicional_anuencias: '01:45',
+      status_desatracamento: 'OK',
+      tempo_atracacao: '02:45'
+    },
+    {
+      navio: 'NAVIO 3',
+      data_chegada_duv: '30/07/2022',
+      terminal_duv: 1,
+      data_chegada_pratico: '31/07/2022',
+      tempo_adicional: '01:15',
+      tamanho_navio: 40,
+      mare: 12,
+      calado: 15,
+      tempo_adicional_anuencias: '01:45',
+      status_desatracamento: 'OK',
+      tempo_atracacao: '02:45'
+    },
+    {
+      navio: 'NAVIO 4',
+      data_chegada_duv: '30/07/2022',
+      terminal_duv: 1,
+      data_chegada_pratico: '31/07/2022',
+      tempo_adicional: '01:15',
+      tamanho_navio: 40,
+      mare: 12,
+      calado: 15,
+      tempo_adicional_anuencias: '01:45',
+      status_desatracamento: 'OK',
+      tempo_atracacao: '02:45'
+    },
+    {
+      navio: 'NAVIO 5',
+      data_chegada_duv: '30/07/2022',
+      terminal_duv: 1,
+      data_chegada_pratico: '31/07/2022',
+      tempo_adicional: '01:15',
+      tamanho_navio: 40,
+      mare: 12,
+      calado: 15,
+      tempo_adicional_anuencias: '01:45',
+      status_desatracamento: 'OK',
+      tempo_atracacao: '02:45'
+    },
+    {
+        navio: 'NAVIO 6',
+        data_chegada_duv: '30/07/2022',
+        terminal_duv: 1,
+        data_chegada_pratico: '31/07/2022',
+        tempo_adicional: '01:15',
+        tamanho_navio: 40,
+        mare: 12,
+        calado: 15,
+        tempo_adicional_anuencias: '01:45',
+        status_desatracamento: 'OK',
+        tempo_atracacao: '02:45'
+      },
+      {
+        navio: 'NAVIO 7',
+        data_chegada_duv: '30/07/2022',
+        terminal_duv: 1,
+        data_chegada_pratico: '31/07/2022',
+        tempo_adicional: '01:15',
+        tamanho_navio: 40,
+        mare: 12,
+        calado: 15,
+        tempo_adicional_anuencias: '01:45',
+        status_desatracamento: 'OK',
+        tempo_atracacao: '02:45'
+      },
+      {
+        navio: 'NAVIO 9',
+        data_chegada_duv: '30/07/2022',
+        terminal_duv: 1,
+        data_chegada_pratico: '31/07/2022',
+        tempo_adicional: '01:15',
+        tamanho_navio: 40,
+        mare: 12,
+        calado: 15,
+        tempo_adicional_anuencias: '01:45',
+        status_desatracamento: 'OK',
+        tempo_atracacao: '02:45'
+      }
+  ]
+
+  export default data
